@@ -1,0 +1,3 @@
+/home/laki0s_s/projet_perso/NetScope/backend/build/CMakeFiles/NetScope.dir
+/home/laki0s_s/projet_perso/NetScope/backend/build/CMakeFiles/edit_cache.dir
+/home/laki0s_s/projet_perso/NetScope/backend/build/CMakeFiles/rebuild_cache.dir
